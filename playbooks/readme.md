@@ -4,7 +4,7 @@
 
   Общие положения по реагированию изложены в [Методика](https://github.com/Madnikulin50/makves-mvp/blob/master/export-ad.ps1 "Переход по ссылке")
   
- ## Каталог реакций на угрозы
+ ## Каталог реакций на инциденты информационной безопасности
  
  + [DDOS](https://github.com/Madnikulin50/makves-resources/blob/master/playbooks/ddos.md "Переход по ссылке")  - Реакция на DDOS-атаку
  + [Phishing](https://github.com/Madnikulin50/makves-resources/blob/master/playbooks/phishing.md "Переход по ссылке")  - Реакция на phishing
